@@ -14,7 +14,7 @@ using Internet Information Services (IIS) Manager.
 ```
 ## Requirements:
 
-A virtual machine running windows server.
+A Microsoft machine server.
 
 ## Installation and Configuration
 
