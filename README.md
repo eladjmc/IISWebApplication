@@ -12,10 +12,13 @@ using Internet Information Services (IIS) Manager.
 >whoami
 "A guide + basic project files"
 ```
+## Requirements:
+
+A virtual machine running windows server.
 
 ## Installation and Configuration
 
-```python
+```bash
 - clone the files on this repo or create your own ASP.NET project.
 - create and configure IIS -> 
 * At the server manager click on : Add feature and roles.
