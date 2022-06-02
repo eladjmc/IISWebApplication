@@ -26,14 +26,14 @@ A Microsoft machine server.
 * Add the ```.NET framework``` features at the ``` Features``` section.
 
 - Add your web application to the IIS Manager ->
-Open IIS manager
-Open your local connection.
-Right click on Sites
+Open IIS manager ->
+Open your local connection. ->
+Right click on Sites ->
 Select "Add website" ->
   Fill the website form.
-  Site name - Your website name.
-  Physical path - The path to your website folder.
-  port - The port where the app will run - for us it was 5100
+  -Site name - Your website name.
+  -Physical path - The path to your website folder.
+  -port - The port where the app will run - for us it was 5100
 
 - Browse to the application
 From your local Microsoft machine Browse to http://localhost:5100/
