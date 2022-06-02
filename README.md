@@ -26,7 +26,7 @@ using Internet Information Services (IIS) Manager.
 * After that Choose Web Server (IIS) at the Server Roles section.
 * Add the ```.NET framework``` features at the ``` Features``` section.
 
-- Add your web application to the IIS Manager ->
+#### Add your web application to the IIS Manager ->
 
 Open IIS manager ->
 
