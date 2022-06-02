@@ -26,10 +26,15 @@ A Microsoft machine server.
 * Add the ```.NET framework``` features at the ``` Features``` section.
 
 - Add your web application to the IIS Manager ->
+- 
 Open IIS manager ->
+
 Open your local connection. ->
+
 Right click on Sites ->
+
 Select "Add website" ->
+
   Fill the website form.
   -Site name - Your website name.
   -Physical path - The path to your website folder.
