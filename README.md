@@ -36,6 +36,7 @@ Right click on Sites ->
 Select "Add website" ->
 
 Fill the website form:
+
 -Site name - Your website name.
 -Physical path - The path to your website folder.
 -port - The port where the app will run - for us it was 5100
