@@ -14,7 +14,8 @@ using Internet Information Services (IIS) Manager.
 ```
 ## Requirements:
 
-A Microsoft machine server.
+1) A Microsoft machine runing "Windows Server 2019" with IIS (Internet Information Services) Web Server.
+2) DotNet 5.0 framework for the sample to work on the server.
 
 ## Installation and Configuration
 
