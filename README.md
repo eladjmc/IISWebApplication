@@ -18,7 +18,7 @@ A Microsoft machine server.
 
 ## Installation and Configuration
 
-```bash
+
 - clone the files on this repo or create your own ASP.NET project.
 - create and configure IIS -> 
 * At the server manager click on : Add feature and roles.
@@ -39,7 +39,6 @@ Select "Add website" ->
 From your local Microsoft machine Browse to http://localhost:5100/
 
 DONE
-```
 
 ## Dependencies
 
