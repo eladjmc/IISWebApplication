@@ -49,6 +49,6 @@ DONE
 
 Microsoft machine - This guide deployed with Windows Server 2019.
 
-This project was written using Microsoft Visual Studio 2019 and C# ASP.NET 5.0 core, other versions mat not work.
+This project was written using Microsoft Visual Studio 2019 and C# ASP.NET 5.0 core, other versions may not work properly.
 
-Note .NET versions must be the same on the server and at your project.
+###Note .NET versions must be the same on the server and at your project.
